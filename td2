@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+    <title>emploi s2 iail </title>
+    
+
+</head>
+<body>
+    <h2 align="centre">emploi </h2>
+    <table border="1">
+        <tr>
+         <th bgcolor="lightgray"><h4>HEURE</h4></th>
+        <th bgcolor="lightgray">8:00 A 10:30</th>
+        <th bgcolor="lightgray">10:30 A 12:00</th>
+        <th bgcolor="lightgray">12:15 A 13:45</th>
+        <th bgcolor="lightgray">13:45 A 15:15</th>
+        <th bgcolor="lightgray">15:30 A 17:00</th>
+        <th bgcolor="lightgray">17:00 A 18:30</th>
+
+        </tr>
+        <tr>
+            <td bgcolor="lightgray">lundi</td>
+            <td > python 2 - cours<a href="page_message.html">Prof A.Elouardi</a></td>
+            <td>algorithme et programatin c -cours<a href="page_message.html">Prof H.Ouadani</a></td>
+            <td></td>
+            <td>algorithme et programaton c - td/tp G2<a href="page_message.html">Prof H.Ouadani</a></td>
+            <td>programation python 2 td/tp G3 <a href="page_message.html">Prof A.Elouardi</a></td>
+            <td>programation python 2 td/tp G2<a href="page_message.html">Prof A.Elouardi</a></td>
+
+        </tr>
+        <tr>
+            <td bgcolor="lightgray">mardi</td>
+            <td>programation python 2 td/tp G1<a href="page_message.html">Prof A.Elouardi</a></td>
+            <td ></td>
+            <td>digital skils &inteelegence arthificielle<a href="page_message.html">Prof A.Elouardi</a></td>
+            <td>digital skils &inteelegence arthificielle td/tp<a href="page_message.html">Prof A.Elouardi</a> </td>
+            <td ></td>
+            <td ></td>
+
+        </tr>
+        <tr>
+            <td bgcolor="lightgray">mercredi</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td>algorithme et programation c td/tp G1<a href="page_message.html">Prof H.Ouadani</a></td>
+            <td>algebre 2 td <a href="page_message.html">prof i.boutaayamo</a></td>
+            <td>analyse 2 td<a href="page_message.html">prof A.hadri</a></td>
+        </tr> 
+        <tr>
+            <td bgcolor="lightgray">jeudi</td>
+            <td>traitement du signale cours<a href="page_message.html">prof H.AZZAHHAFI</a></td>
+            <td>traitement du signiale td<a href="page_message.html">prof H.AZZAHHAFI</a>/td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+        </tr>  
+        <tr>
+            <td bgcolor="lightgray">vendredi</td>
+            <td>algebre 2 cours<a href="page_message.html">prof i.boutaayamo</a></td>
+            <td>analyse 2 cours<a href="page_message.html">prof A.hadri</a></td>
+           <td ></td>
+           <td ></td>
+           <td ></td>
+           <td ></td>
+        </tr>
+        <tr>
+            <td bgcolor="lightgray">samedi</td>
+            <td ></td>
+            <td></td>
+            <td ></td>
+            <td>programmation web 1 td/tp G2<a href="page_message.html">prof k.omar</a></td>
+            <td>programmation web 1 cours <a href="page_message.html">prof k.omar</a></td>
+            <td>programmation web 1 td/tp<a href="page_message.html">prof k.omar</a> G2</td>
+        </tr>
+
+    </table>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>contacter le prof</title>
+</head>
+<body>
+    <h2>envoyer un message au proffesseur</h2>
+    <from>
+        <label>Nom :</label><br>
+        <input type="text"name="nom"><br><br>
+
+        <label>Email :</label><br>
+        <input type="email"name="email"><br><br>
+
+        <label>Message :</label><br>
+        <textarea name="message " rows="5" cols="30"></textarea><br><br>
+
+        <input type="submit"value="envoyer"><br><br>
+
+
+    </from>
+
+</body>
+
+</html>
